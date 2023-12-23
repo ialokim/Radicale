@@ -1,3 +1,8 @@
+Fork of https://github.com/Kozea/Radicale, applying selected upstream PRs:
+- support for webcal subscriptions: https://github.com/Kozea/Radicale/pull/1229
+
+---
+
 # Radicale
 
 [![Test](https://github.com/Kozea/Radicale/actions/workflows/test.yml/badge.svg?branch=v3)](https://github.com/Kozea/Radicale/actions/workflows/test.yml)
